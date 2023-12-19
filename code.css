@@ -1,0 +1,43 @@
+body{
+
+}
+.container{
+    border: 2px solid rgb(221, 34, 34);
+    margin: 300px auto;
+    width: 500px; 
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 189, 211);
+    border-radius: 8px;
+    border-bottom: 6px solid rgb(186, 123, 123);
+}
+.rajni{
+   padding: auto;
+   width: 150px;
+   height: 150px;
+   border-radius: 50%; /* Make it round */
+   object-fit: cover;
+}
+.card{
+    margin: 70px;
+}
+.text{
+    align-items: right;
+    margin: auto;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+}
+.text div{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+h4{
+
+    display:flex;
+    margin-bottom: auto;
+    text-align: center;
+}
